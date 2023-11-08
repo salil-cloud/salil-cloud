@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salil debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salil debnath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/salil debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="salil debnath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salil-debnath/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="salil debnath" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22704454/salil-debnath" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="salil debnath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
